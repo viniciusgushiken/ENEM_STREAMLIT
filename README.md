@@ -8,7 +8,7 @@ https://descubrasuanota.herokuapp.com/
 
 Trabalho final do curso de Data Science da Digital House, turma do 1º semestre de 2020. O projeto requer a criação de um modelo de machine learning com dados reais e fazer o deploy do modelo, colocando-o em produção na forma de um produto. O produto deve atender uma necessidade de mercado e conter as técnicas aprendidas ao longo do semestre.
 
-Nosso produto fornece a nota do ENEM predita pelo modelo Random Forest. O modelo possui um RSME de 52 pontos e um R2 de 90%. O aplicativo web foi desenvolvido com o framework Streamlit.
+Nosso produto fornece a nota do ENEM predita pelo modelo Random Forest. O modelo possui um MAE de 52 pontos e um R2 de 90%. O aplicativo web foi desenvolvido com o framework Streamlit.
 
 Os dados são os Microdados do ENEM de 2018, que podem ser encontrados no site do INEP (http://inep.gov.br/microdados). O dataset contem mais de 5 milhões de linhas e 137 colunas. Contendo informações socioecomicas sobre cada participante, alem de informações sobre suas notas em cada prova do ENEM.
 

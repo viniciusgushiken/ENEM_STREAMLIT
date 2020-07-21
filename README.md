@@ -1,7 +1,7 @@
 # ENEM_STREAMLIT
 Autores: Jessica, Jonas, Leonardo, Lucas e Vinicius 
 
-Web app Streamlit para descobrir sua nota do ENEM. Confira o modelo em produção no link abaixo.
+Web app para descobrir sua nota do ENEM. Confira o modelo em produção no link abaixo.
 https://descubrasuanota.herokuapp.com/
 
 ## Sobre

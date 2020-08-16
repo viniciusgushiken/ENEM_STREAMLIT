@@ -1,6 +1,4 @@
 # ENEM_STREAMLIT
-Autores: Jessica, Jonas, Leonardo, Lucas e Vinicius 
-
 Aplicativo web para descobrir sua nota do ENEM. Confira o modelo em produção no link abaixo.
 https://descubrasuanota.herokuapp.com/
 
@@ -17,3 +15,5 @@ O modelo escolhido foi o Random Forest, sua vantagem é o ensemble learning do q
 O aplicativo web foi desenvolvoido interiramente no framework Streamlit, a vantagem do mesmo é que ele foi desenvolvido especificamente para Data Apps, além disso, todo o desenvolvimetno é feito em python.
 
 O produto é um aplicativo que pode ser acessado por qualquer usuário com acesso à internet. Os usuários podem ter uma boa noção de sua nota baseada na sua posição socioeconomica brasileira.
+
+Autores: Jessica, Jonas, Leonardo, Lucas e Vinicius 
